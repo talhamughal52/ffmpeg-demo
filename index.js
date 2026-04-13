@@ -1,6 +1,6 @@
 // install:
 //   npm install fluent-ffmpeg @ffmpeg-installer/ffmpeg
-//   OR ensure ffmpeg is on your system PATH
+//   OR ensure ffmpeg is on your system PATH 
 
 const fs = require("fs");
 const path = require("path");
